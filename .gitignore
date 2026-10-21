@@ -1,2 +1,9 @@
 mlartifacts/
 mlflow.db
+python-sdk/
+amazon_reviews_analysis/
+data.csv
+.DS_Store
+.python-version
+mcp_testing_project/__pycache__/
+mcp_testing_project/.venv/
