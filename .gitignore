@@ -7,3 +7,4 @@ data.csv
 .python-version
 mcp_testing_project/__pycache__/
 mcp_testing_project/.venv/
+calculator_mcp_server/__pycache__/
