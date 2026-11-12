@@ -8,3 +8,5 @@ data.csv
 mcp_testing_project/__pycache__/
 mcp_testing_project/.venv/
 calculator_mcp_server/__pycache__/
+chatbot_with_mcp/.venv/
+agentic_ai/chatbot_with_mcp/.env
